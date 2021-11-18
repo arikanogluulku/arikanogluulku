@@ -13,15 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 🔭 I’m currently working on: Front End Development.
 
 🌱 I am interested in software development.
 
 📫 How to reach me: arikanogluulku@gmail.com
 
+-->
 
-
+📫 How to reach me: arikanogluulku@gmail.com
 
 My Motivation: 
 ### If you can dream it, you can! ✨
