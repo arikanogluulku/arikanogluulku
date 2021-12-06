@@ -3,7 +3,7 @@
 
  <br>
  <div align="center">
- <img src="https://cdn.dribbble.com/users/4596776/screenshots/14382770/untitled_artwork_2_copy.png" width="410" height="300" />
+ <img src="https://st3.depositphotos.com/34566482/36872/v/950/depositphotos_368727510-stock-illustration-woman-sitting-laptop-concept-illustration.jpg" width="200" height="200" />
  <h3 > 🚀 “All our dreams can come true, if we have the courage to pursue them.”   – Walt Disney </h3>
 </div>
 
